@@ -1,0 +1,44 @@
+/* projects/wallet/wallet.wxss */
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+.money {
+  padding: 60rpx;
+  background-color: #fff;
+}
+.money .money-title {
+  width: 100%;
+  text-align: center;
+  font-size: 26rpx;
+  margin-bottom: 60rpx;
+}
+.money .money-content {
+  margin-bottom: 20rpx;
+  text-align: center;
+  font-size: 100rpx;
+  font-weight: 600;
+}
+.money .money-desc {
+  text-align: center;
+}
+.money .money-desc text{
+  display: inline-block;
+  padding: 10rpx 20rpx;
+  font-size: 26rpx;
+  border: 1px solid #ccc;
+  border-radius: 36rpx;
+}
+button {
+  margin: 40rpx;
+  background-color: #b9dd08;
+}
+.same {
+  display: flex;
+  padding: 40rpx;
+  background-color: #fff;
+  font-size: 32rpx;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+}

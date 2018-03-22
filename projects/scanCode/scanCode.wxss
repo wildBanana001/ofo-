@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.pass-title, tips {
+  flex: 1;
+  padding: 60rpx;
+}
+.pass-content {
+  flex:8;
+  font-size: 220rpx;
+  font-weight: 700;
+}
+.pass-title {
+  font-size: 28rpx;
+}
+.tips text{
+  color : #b9dd08;
+}
+.tips view {
+  margin-bottom: 40rpx;
+}
