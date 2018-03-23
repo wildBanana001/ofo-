@@ -16,4 +16,4 @@ ofo小程序部分功能
 ![view5](./images/view5.png "view5")
 ![view6](./images/view6.png "view6")
 ![view7](./images/view7.png "view7")
-<img src='./images/view1.jpg'/ style='width:300px;height:400px;'>
+<img src='./images/view1.jpg'/ style='max-width:60%;'>
