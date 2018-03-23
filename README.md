@@ -9,11 +9,5 @@ ofo小程序部分功能
 - 用户充值方面由于没有使用服务器和后台接口，直接将充值数据传入Storage里，在钱包页面在获取。
 
 
-![view1](./images/view1.jpg "view1")
-![view2](./images/view2.png "view2")
-![view3](./images/view3.png "view3")
-![view4](./images/view4.png "view4")
-![view5](./images/view5.png "view5")
-![view6](./images/view6.png "view6")
-![view7](./images/view7.png "view7")
-<img src='./images/view1.jpg'/ style='max-width:60%;'>
+
+<image src='./images/view1.jpg' style='max-width:60%;'/>
