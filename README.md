@@ -10,4 +10,4 @@ ofo小程序部分功能
 
 
 
-<image src='./images/view1.jpg' style='max-width:60%;'/>
+<image src="./images/view1.jpg" style="max-width:40%;"></image>
