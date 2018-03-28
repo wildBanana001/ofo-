@@ -8,11 +8,30 @@ ofo小程序部分功能
 - 用户登陆界面则使用wx.getuserInfo将获取到的用户信息展示出来。
 - 用户充值方面由于没有使用服务器和后台接口，直接将充值数据传入Storage里，在钱包页面在获取。
 
+### 演示
+
+首页
 ![](./images/view1.jpg)
+
+车牌数据显示页面
+
 ![](./images/view2.png)
+
+计时页面
+
 ![](./images/view3.png)
+
+报障页面
+
 ![](./images/view4.png)
+
 ![](./images/view5.png)
+
+用户页面
+
 ![](./images/view6.png)
+
+钱包页面
+
 ![](./images/view7.png)
 
