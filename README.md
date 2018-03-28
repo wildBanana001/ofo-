@@ -11,27 +11,28 @@ ofo小程序部分功能
 ### 演示
 
 首页
+</br>
 ![](./images/view1.jpg)
 
 车牌数据显示页面
-
+</br>
 ![](./images/view2.png)
 
 计时页面
-
+</br>
 ![](./images/view3.png)
 
 报障页面
-
+</br>
 ![](./images/view4.png)
-
+</br>
 ![](./images/view5.png)
 
 用户页面
-
+</br>
 ![](./images/view6.png)
 
 钱包页面
-
+</br>
 ![](./images/view7.png)
 
