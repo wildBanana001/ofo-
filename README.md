@@ -16,23 +16,23 @@ ofo小程序部分功能
 
 车牌数据显示页面
 </br>
-![](./images/view2.png)
+![](./images/view2.jpg)
 
 计时页面
 </br>
-![](./images/view3.png)
+![](./images/view3.jpg)
 
 报障页面
 </br>
-![](./images/view4.png)
+![](./images/view4.jpg)
 </br>
-![](./images/view5.png)
+![](./images/view5.jpg)
 
 用户页面
 </br>
-![](./images/view6.png)
+![](./images/view6.jpg)
 
 钱包页面
 </br>
-![](./images/view7.png)
+![](./images/view7.jpg)
 
